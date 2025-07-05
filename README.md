@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE` file.
 
 **Md. Asif Hossain**  
 - GitHub: [@MdAsif-Hossain](https://github.com/MdAsif-Hossain)  
-- Email: your_email@example.com  
+- Email: asifhossain8612@gmail.com  
 
 ---
 
