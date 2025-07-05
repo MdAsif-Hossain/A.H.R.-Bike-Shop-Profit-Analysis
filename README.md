@@ -1,7 +1,7 @@
 
 # 🚲 A.H.R. Bike Shop Profit Analysis
 
-A Python-driven data analysis project focused on evaluating and optimizing profits in a bike shop business. It ingests sales and cost data to uncover trends, margins, and actionable insights through clean visuals and structured reporting.
+A Power Bi-driven data analysis project focused on evaluating and optimizing profits in a bike shop business. It ingests sales and cost data to uncover trends, margins, and actionable insights through clean visuals and structured reporting.
 
 ---
 
@@ -41,34 +41,13 @@ A Python-driven data analysis project focused on evaluating and optimizing profi
 
 ## 🛠 Tech Stack
 
-- **Python 3.7+**  
-- Key libraries:
-  - `pandas`, `numpy` – data wrangling  
-  - `matplotlib`, `seaborn` – charting  
-  - `PyYAML` or `configparser` – config handling  
-  - `pytest` – automated testing  
-
-Optional:
-- Use `plotly`, `Dash`, or `Streamlit` for interactive dashboards  
+- **SQL**  
+- **Power Bi** 
 
 ---
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Python (3.7+) installed  
-- `pip` or `conda` environment ready  
-
-### Installation
-
-```bash
-git clone https://github.com/MdAsif-Hossain/A.H.R.-Bike-Shop-Profit-Analysis.git
-cd A.H.R.-Bike-Shop-Profit-Analysis
-pip install -r requirements.txt
-```
-
----
 
 ## ⚙️ Usage
 
