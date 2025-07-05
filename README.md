@@ -9,7 +9,7 @@ A Python-driven data analysis project focused on evaluating and optimizing profi
 
 > Replace with your final project screenshot:
 
-![Project Screenshot]([assets/final_profit_report.png](https://github.com/MdAsif-Hossain/A.H.R.-Bike-Shop-Profit-Analysis/blob/main/Screenshot%202024-10-03%20172346.png))  
+![Project Screenshot](https://github.com/MdAsif-Hossain/A.H.R.-Bike-Shop-Profit-Analysis/blob/main/Screenshot%202024-10-03%20172346.png)  
 *Example of the final output – replace with your real result.*
 
 ---
